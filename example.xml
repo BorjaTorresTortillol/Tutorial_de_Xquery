@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<heramientas>
+    <herramienta id="01">
+        <nombre>Linux-Mint-21.1</nombre>
+        <tipo>SO</tipo>
+        <formato>DVD</formato>
+    </herramienta>
+    <herramienta id="02">
+        <nombre>Windows-7-x64</nombre>
+        <tipo>SO</tipo>
+        <formato>DVD</formato>
+    </herramienta>
+    <herramienta id="03">
+        <nombre>AmongOS-1.4.0-x86-x64</nombre>
+        <tipo>SO</tipo>
+        <formato>DVD</formato>
+    </herramienta>
+    <herramienta id="04">
+        <nombre>DRBL-Live</nombre>
+        <tipo>SO-Herramienta</tipo>
+        <formato>CD</formato>
+    </herramienta>
+    <herramienta id="05">
+        <nombre>DRBL-Live</nombre>
+        <tipo>SO-Herramienta</tipo>
+        <formato>CD</formato>
+    </herramienta>
+    <herramienta id="06">
+        <nombre>Hiren's-Boot-x32</nombre>
+        <tipo>SO-Herramienta</tipo>
+        <formato>CD</formato>
+    </herramienta>
+    <herramienta id="07">
+        <nombre>Gparted</nombre>
+        <tipo>SO-Herramienta</tipo>
+        <formato>CD</formato>
+    </herramienta>
+    <herramienta id="08">
+        <nombre>Windows-XP-x32</nombre>
+        <tipo>SO</tipo>
+        <formato>CD</formato>
+    </herramienta>
+</heramientas>
